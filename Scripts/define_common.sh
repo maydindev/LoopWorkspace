@@ -34,6 +34,7 @@ MESSAGE_FILE="xlate_message_file.txt"
 # matches lokalise order, en plus alphabetical order by language name in English
 LANGUAGES=(en \
     ar \
+    ce \
     zh-Hans \
     cs \
     da \
@@ -43,6 +44,7 @@ LANGUAGES=(en \
     de \
     he \
     hi \
+    hu \
     it \
     ja \
     nb \
@@ -54,6 +56,7 @@ LANGUAGES=(en \
     es \
     sv \
     tr \
+    uk \
     vi \
 )
 
