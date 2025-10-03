@@ -42,7 +42,7 @@ LANGUAGES=(en \
     fr \
     de \
     he \
-    hi ]
+    hi \
     it \
     ja \
     nb \
